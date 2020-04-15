@@ -5,9 +5,11 @@ this is a task manager where user can add,delete,edite tasks and categories. use
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>MARELIALIZE</li>
+  <li>Materialize</li>
   <li>MONGODB</li>
   <li>JavaScript</li>
+  <li>Python</li>
+  <li>Flask</li>
 </ul>
 
 
